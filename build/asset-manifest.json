@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/pipefyclone/static/js/main.4115d8f6.chunk.js",
+    "main.js.map": "/pipefyclone/static/js/main.4115d8f6.chunk.js.map",
+    "runtime~main.js": "/pipefyclone/static/js/runtime~main.0906c0c0.js",
+    "runtime~main.js.map": "/pipefyclone/static/js/runtime~main.0906c0c0.js.map",
+    "static/js/2.c6a39788.chunk.js": "/pipefyclone/static/js/2.c6a39788.chunk.js",
+    "static/js/2.c6a39788.chunk.js.map": "/pipefyclone/static/js/2.c6a39788.chunk.js.map",
+    "index.html": "/pipefyclone/index.html",
+    "precache-manifest.340407230f36e0306b12ace8b5f5d4c5.js": "/pipefyclone/precache-manifest.340407230f36e0306b12ace8b5f5d4c5.js",
+    "service-worker.js": "/pipefyclone/service-worker.js"
+  }
+}
